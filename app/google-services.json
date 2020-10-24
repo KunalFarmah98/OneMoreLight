@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821318027531",
+    "firebase_url": "https://onemorelight-443c7.firebaseio.com",
+    "project_id": "onemorelight-443c7",
+    "storage_bucket": "onemorelight-443c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821318027531:android:83586100797ca3a9f5fa0e",
+        "android_client_info": {
+          "package_name": "com.apps.kunalfarmah.onemorelight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821318027531-067itaf66m76f0lggvf90sjvgm5dgvm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.kunalfarmah.onemorelight",
+            "certificate_hash": "16dbd98ff40e0e810ca1a458d25b860c667a5132"
+          }
+        },
+        {
+          "client_id": "821318027531-g8r69hfnhjsgenp0vql9vvevflfl6psr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpuafmVZFDe9YgbQCUrVFANJSaRWPDp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821318027531-g8r69hfnhjsgenp0vql9vvevflfl6psr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

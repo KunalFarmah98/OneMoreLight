@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OneMoreLight</string>
+    <string name="sign_in_with_email">Sign in with Email</string>
+    <string name="sign_in_with_otp">Sign In with OTP</string>
+    <string name="signup">Not Got an Account? Sign Up</string>
+    <string name="enter_your_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="sign_up_heading">Sign Up</string>
+    <string name="sign_in_heading">Sign In</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="resend_otp">Resend</string>
+    <string name="dummy_timer_text">Resending in:</string>
+    <string name="enter_otp">Enter OTP recieved</string>
+</resources>
